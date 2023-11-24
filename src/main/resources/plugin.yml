@@ -1,0 +1,5 @@
+name: TutorialManager
+main: de.lukas.TutorialManager.TutorialManager
+version: '${project.version}'
+author: Lukxi
+depends: [PluginUtils]
